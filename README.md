@@ -1,6 +1,10 @@
 # Awesome-Container-Queries
 A repo with links to posts of things around container queries.
 
+## References
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries)
+
 ## Articles
 
 ### 2021
