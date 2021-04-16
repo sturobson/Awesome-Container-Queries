@@ -31,7 +31,7 @@ A repo with links to posts of things around container queries.
 
 ## CodePens and Examples
 
-- [Componet Query Card Demo](https://codepen.io/una/details/LYbvKpK)
+- [Component Query Card Demo](https://codepen.io/una/details/LYbvKpK)
 
 ## Resources
 
