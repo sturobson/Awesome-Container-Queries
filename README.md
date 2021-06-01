@@ -9,6 +9,11 @@ A repo with links to posts of things around container queries.
 
 ### 2021
 
+- [Responsive design and container queries? Oh my!](https://ethanmarcotte.com/wrote/responsive-design-at-11-container-queries/)
+- [CSS Container Queries For Designers](https://ishadeed.com/article/container-queries-for-designers/)
+- [CSS Container Queries: Use-Cases And Migration Strategies](https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/)
+- [Container Queries in Web Components](https://mxb.dev/blog/container-queries-web-components/)
+- [A Primer On CSS Container Queries](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/)
 - [CSS Container Queries: A First Look + Demo](https://www.bram.us/2021/03/28/css-container-queries-a-first-look-and-demo/)
 - [Say Hello To CSS Container Queries](https://ishadeed.com/article/say-hello-to-css-container-queries/)
 - [What are container queries in CSS?](https://blog.logrocket.com/what-are-container-queries-in-css/)
