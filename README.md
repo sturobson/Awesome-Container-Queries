@@ -9,10 +9,15 @@ A repo with links to posts of things around container queries.
 
 ### 2021
 
+- [Container Queries Explainer & Proposal](https://www.miriamsuzanne.com/2021/05/02/container-queries/)
+- [Next Gen CSS: @container](https://css-tricks.com/next-gen-css-container/)
+- [Component-level art direction with CSS Container Queries](https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/)
+- [Can We Create a “Resize Hack” With Container Queries?](https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/)
 - [Responsive design and container queries? Oh my!](https://ethanmarcotte.com/wrote/responsive-design-at-11-container-queries/)
 - [CSS Container Queries For Designers](https://ishadeed.com/article/container-queries-for-designers/)
 - [CSS Container Queries: Use-Cases And Migration Strategies](https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/)
 - [Container Queries in Web Components](https://mxb.dev/blog/container-queries-web-components/)
+- [Container Queries & The Future of CSS](https://www.oddbird.net/talks/responsive-components/)
 - [A Primer On CSS Container Queries](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/)
 - [CSS Container Queries: A First Look + Demo](https://www.bram.us/2021/03/28/css-container-queries-a-first-look-and-demo/)
 - [Say Hello To CSS Container Queries](https://ishadeed.com/article/say-hello-to-css-container-queries/)
@@ -41,3 +46,7 @@ A repo with links to posts of things around container queries.
 ## Resources
 
 - [Miriam Suzanne's Sandbox](https://css.oddbird.net/rwd/query/)
+
+## Vidoos
+
+- [Container Queries are going to be a game changer!](https://www.youtube.com/watch?v=JsN_iE3prm0)
