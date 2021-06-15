@@ -9,6 +9,7 @@ A repo with links to posts of things around container queries.
 
 ### 2021
 
+- [Media Queries in Times of @container](https://mxb.dev/blog/media-queries-in-times-of-container-queries/)
 - [Container Queries Explainer & Proposal](https://www.miriamsuzanne.com/2021/05/02/container-queries/)
 - [Next Gen CSS: @container](https://css-tricks.com/next-gen-css-container/)
 - [Component-level art direction with CSS Container Queries](https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/)
