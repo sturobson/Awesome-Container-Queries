@@ -26,6 +26,7 @@ A repo with links to posts of things around container queries.
 - [Container Queries are actually coming](https://piccalil.li/blog/container-queries-are-actually-coming)
 - [Container Queries: a Quick Start Guide](https://www.oddbird.net/2021/04/05/containerqueries/)
 - [Why I think the upcoming CSS Container queries are GAME CHANGING ](https://dev.to/eddyvinck/why-i-think-the-upcoming-css-container-queries-are-game-changing-d4o)
+- [The new responsive → Responsive to the container](https://web.dev/new-responsive/#responsive-to-the-container)
 
 ### 2020
 
