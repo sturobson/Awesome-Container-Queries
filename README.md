@@ -49,6 +49,6 @@ A repo with links to posts of things around container queries.
 
 - [Miriam Suzanne's Sandbox](https://css.oddbird.net/rwd/query/)
 
-## Vidoos
+## Videos
 
 - [Container Queries are going to be a game changer!](https://www.youtube.com/watch?v=JsN_iE3prm0)
