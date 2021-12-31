@@ -47,6 +47,8 @@ A repo with links to posts of things around container queries.
 
 ## CodePens and Examples
 
+__note__: some of these examples may appear broken in browsers that support Container Queries due to changes in specification since the example was published.
+
 - [Component Query Card Demo](https://codepen.io/una/details/LYbvKpK)
 - [Container Query Starter](https://codepen.io/web-dot-dev/pen/LYzxgxP)
 - [Container Queries with Polyfill and Grid](https://codepen.io/cahdeemer/pen/ExmeXgp)
