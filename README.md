@@ -3,13 +3,17 @@ A repo with links to posts of things around container queries.
 
 ## References
 
+- [W3C CSS Containment Module Level 3](https://www.w3.org/TR/css-contain-3/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries)
+- [Platform Status](https://chromestatus.com/feature/6525308435955712)
+- 
 
 ## Articles
 
 ### 2021
 
 - [12 Days of Web - Container Queries](https://12daysofweb.dev/2021/container-queries/)
+- [A Cornucopia of Container Queries](https://css-tricks.com/a-cornucopia-of-container-queries/)
 - [Media Queries in Times of @container](https://mxb.dev/blog/media-queries-in-times-of-container-queries/)
 - [Container Queries Explainer & Proposal](https://www.miriamsuzanne.com/2021/05/02/container-queries/)
 - [Next Gen CSS: @container](https://css-tricks.com/next-gen-css-container/)
@@ -58,6 +62,8 @@ A repo with links to posts of things around container queries.
 - [Responsive Icon Demo: Baby Clothes](https://codepen.io/una/pen/zYdJvvw)
 - [Container Query Card Demo](https://codepen.io/una/pen/LYbvKpK)
 
+- [Designcember](https://designcember.com)
+
 ## Resources
 
 - [Miriam Suzanne's Sandbox](https://css.oddbird.net/rwd/query/)
@@ -66,3 +72,6 @@ A repo with links to posts of things around container queries.
 
 - [Container Queries are going to be a game changer!](https://www.youtube.com/watch?v=JsN_iE3prm0)
 - [Desiging in the Browser - Container Queries](https://youtu.be/gCNMyYr7F6w)
+- [CSS Container Queries are finally here!](https://youtu.be/BbRnVEalDJ4)
+- [CSS Container Queries](https://youtu.be/Cxp4Vohm6Ec)
+- 
