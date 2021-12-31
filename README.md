@@ -9,6 +9,7 @@ A repo with links to posts of things around container queries.
 
 ### 2021
 
+- [12 Days of Web - Container Queries](https://12daysofweb.dev/2021/container-queries/)
 - [Media Queries in Times of @container](https://mxb.dev/blog/media-queries-in-times-of-container-queries/)
 - [Container Queries Explainer & Proposal](https://www.miriamsuzanne.com/2021/05/02/container-queries/)
 - [Next Gen CSS: @container](https://css-tricks.com/next-gen-css-container/)
