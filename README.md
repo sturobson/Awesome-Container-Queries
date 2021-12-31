@@ -45,6 +45,18 @@ A repo with links to posts of things around container queries.
 ## CodePens and Examples
 
 - [Component Query Card Demo](https://codepen.io/una/details/LYbvKpK)
+- [Container Query Starter](https://codepen.io/web-dot-dev/pen/LYzxgxP)
+- [Container Queries with Polyfill and Grid](https://codepen.io/cahdeemer/pen/ExmeXgp)
+- [Simplified CQ Card Demo in Grid with Polyfill](https://codepen.io/una/pen/MWvzQdR)
+- [Container Query Bookstore](https://codepen.io/mxbck/pen/XWMrMOp)
+- [Container Query Example](https://codepen.io/miriamsuzanne/pen/NWjNoGO)
+- [Hero Image with CQ](https://codepen.io/una/pen/YzxwGxP)
+- [Responsive Component Demo - Immediate Parent](https://codepen.io/una/pen/mdOgyVL)
+- [CSS Container Query Playground](https://codepen.io/levente-frks/pen/gORKyXO)
+- [CQ Height: Modal](https://codepen.io/miriamsuzanne/pen/ZEyXOKw)
+- [Card Layouts with Container Queries](https://codepen.io/5t3ph/pen/rNjoyQB)
+- [Responsive Icon Demo: Baby Clothes](https://codepen.io/una/pen/zYdJvvw)
+- [Container Query Card Demo](https://codepen.io/una/pen/LYbvKpK)
 
 ## Resources
 
@@ -53,3 +65,4 @@ A repo with links to posts of things around container queries.
 ## Videos
 
 - [Container Queries are going to be a game changer!](https://www.youtube.com/watch?v=JsN_iE3prm0)
+- [Desiging in the Browser - Container Queries](https://youtu.be/gCNMyYr7F6w)
