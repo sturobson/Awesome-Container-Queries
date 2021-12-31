@@ -6,7 +6,6 @@ A repo with links to posts of things around container queries.
 - [W3C CSS Containment Module Level 3](https://www.w3.org/TR/css-contain-3/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries)
 - [Platform Status](https://chromestatus.com/feature/6525308435955712)
-- 
 
 ## Articles
 
