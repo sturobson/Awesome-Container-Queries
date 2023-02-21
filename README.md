@@ -50,6 +50,11 @@ A repo with links to posts of things around container queries.
 
 - [On container queries.](https://ethanmarcotte.com/wrote/on-container-queries/)
 
+### 2013
+
+- [Media Queries Are Not The Answer: Element Query Polyfill](https://www.smashingmagazine.com/2013/06/media-queries-are-not-the-answer-element-query-polyfill/)
+- [Working around a lack of element queries](https://www.filamentgroup.com/lab/element-query-workarounds.html)
+- [Element Queries](https://www.xanthir.com/b4PR0)
 
 ## CodePens and Examples
 
